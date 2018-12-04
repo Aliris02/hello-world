@@ -1,0 +1,8 @@
+Git bash testing
+1. go into right folder [cd git/]
+2. clone repo: git clone [copy paste link here]
+3. make changes to files
+4. add file to git: git add [file name]
+5.
+6.
+7.
