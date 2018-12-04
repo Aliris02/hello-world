@@ -1,0 +1,8 @@
+Git bash testing
+1. go into right folder [cd git/]
+2. clone repo: git clone [copy paste link here]
+3. make changes to files
+4. add file to git: git add [file name MAKE SURE NO SPACES IN NAME including the .txt of .java]
+5. make commit: git commit -m [insert comment] [file name]
+6. push to git account: git push -u origin master
+7. refresh page and check it's there
